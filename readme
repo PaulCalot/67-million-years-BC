@@ -1,0 +1,24 @@
+README:
+
+Projet: 65 million years BC
+
+Le dossier principal doit être nommé "projet". Je l'avais placé dans /inf443_vcl-master/scenes .
+
+Les headers current_scene.hpp et scenes.hpp sont également disponibles.
+
+Le projet en lui même est organisé en les classes suivantes : 
+
+	- main_projet
+	- Planet et TerrainFace (pour la création de la planète, comme un cube à 6 TerrainFace d'abord)
+	- Dinosaur
+		- Chilosaurus (la proie ici)
+ 		- Tyrannosaurus (le prédateur)
+	- DinosaurHierarchy (création du mesh_drawable et animation)
+	- Meteorite
+	- Grid (grille 3D - une grille 2D par face - pour stocker les dinosaures - utile pour le comportement de groupes et le recherche des voisins)
+
+Ajouté à cela est une script Utility avec quelques unes des fonctions réutilisée plusieurs fois ainsi qu'un dossier contenant les textures utilisées.
+
+le fichier "architecture.png" montre les relations entre ces classes.
+	
+Vous trouverez également une courte vidéo du projet intitulée "65M_years_BC.mp4".
