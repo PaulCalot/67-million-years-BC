@@ -1,7 +1,7 @@
 # 67 million years BC
 
 # Short description 
-This project is not a standalone. It requires a pool of scripts that was given by the teachers during the course "3D computer graphics" at Ecole polytechnique. For copyright reasons, this code was not made available here. This project was done alone and all my personnal code is available here.
+This project is not a standalone. It requires a pool of basic tools that were given by the teachers (in particular Damien Rohmer) during the course "3D computer graphics" at Ecole polytechnique and which is available [here](https://github.com/drohmer/inf443_vcl-2020). This project was done alone and all my personnal code is available here.
 
 The course aimed to give basis of OPENGL and C++ to students. It lasted for 10 weeks, with the last two to three weeks saved for the project. 
 
